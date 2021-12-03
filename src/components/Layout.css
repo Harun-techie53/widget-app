@@ -1,0 +1,12 @@
+.header{
+    justify-content: space-between;
+}
+
+.header__item{
+    padding: 10px;
+    margin-right: 50px;
+}
+
+.layout{
+    margin-bottom: 50px;
+}
